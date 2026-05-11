@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Local bot data
+database.json
+auction.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
